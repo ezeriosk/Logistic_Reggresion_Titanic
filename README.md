@@ -31,8 +31,6 @@ Model Evaluation: Accuracy
 
 📈 Results
 
-The model is evaluated using accuracy, confusion matrix, and ROC curve. Here are some example results:
-
 Accuracy: 0.91
 
 📝 License
