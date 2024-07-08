@@ -26,7 +26,7 @@ In this project, we perform the following steps:
 - Evaluate the model using cross-validation
 
 ### Model Evaluation:
-- Calculate and report accuracy
+- Calculate accuracy and confusion matrix
 
 ## 📈 Results
 
